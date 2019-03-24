@@ -11,7 +11,7 @@ h1{
 
 .row {
   width: 100%;
-  position: absolute;
+  position: relative;
 }
 
 .header {
@@ -52,7 +52,6 @@ p {
   	padding: 8px;
   	border: 2px solid black;
   	position: relative;
-  	margin: 2px;
   }
   .col-lg-4 {
     width: 33.33%;
@@ -67,7 +66,7 @@ p {
   	padding: 8px;
   	border: 2px solid black;
   	position: relative;
-  	margin: 2px;
+  	/*margin: 2px;*/
   }
   .col-md-6 {
     width: 50%;
@@ -83,7 +82,7 @@ p {
     background-color: #808080;
   	padding: 8px;
   	border: 2px solid black;
-  	margin: 2px;
+  	margin: 5px;
   	position: relative;
   }
   .col-sm-12 {
